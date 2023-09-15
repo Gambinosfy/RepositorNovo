@@ -1,4 +1,4 @@
-Algoritmo "Lanchonete Icaro"
+Algoritmo "Lanchonete Icaro - Versão 2.0"
 var
 
   opc, oplanch, opbebida     : inteiro
